@@ -1,4 +1,4 @@
-Welcome to my github profile 
+Welcome to my github profile <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="15" height="15" />
 
 My name is Alexandra and I am truly passionate multi-skilled specialist.
 
